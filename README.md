@@ -248,14 +248,7 @@ python evaluate/summarize_results.py --root outputs
 
 ## 🙏 Citation
 
-```bibtex
-@article{cvsbench2026,
-  title={CVSBench: A Comprehensive Benchmark for Cross-View Spatial Reasoning and Dreaming},
-  author={...},
-  journal={ECCV},
-  year={2026}
-}
-```
+to be released
 
 ## ⚖️ License
 

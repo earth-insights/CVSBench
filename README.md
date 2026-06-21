@@ -264,3 +264,9 @@ CVSBench builds upon valuable data resources including:
 ## ⭐ Star History
 
 If CVSBench is useful for your research, please consider giving the repository a star.
+
+## 📬 Contact
+
+If you have questions or would like to collaborate, please contact us at:  
+📧 [`liuruixun6343@gmail.com`](liuruixun6343@gmail.com)
+
